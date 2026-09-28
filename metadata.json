@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Clássicos - Jogos Retrô",
+  "description": "Portal definitivo de jogos clássicos retrô: Cobrinha, Pac-Man, Asteroids, Pong, Frogger, Quebra-Blocos, Invasores do Espaço, Pássaro Pixel, Módulo Lunar, Quatro em Linha, Tetra Blocks e Campo Minado com áudio 8-bit e placares de recordes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
